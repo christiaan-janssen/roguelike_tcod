@@ -1,0 +1,2 @@
+all:
+	python engine.py
